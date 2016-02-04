@@ -2,6 +2,6 @@ Hello World.
 
 Welcome to Learning Git.
 
-After the initial changes, this is new changes made. I mean this line. Ok by second line.
+Following the track to learn Git. (Trustm me I'm learning and enjoying the flow of the programme.)
 
-hello again.
+For now, bye!!
